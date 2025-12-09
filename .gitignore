@@ -1,0 +1,20 @@
+# Build directories
+builddir/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+
+# Meson
+.mesonpy-*
+compile_commands.json
